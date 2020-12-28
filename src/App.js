@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>This paragraph is being written in the header file while the below change done by me is outer side the header </p>
       </header>
       <p>
         <b>Hello World Here is the change by atif javed in react app</b>
